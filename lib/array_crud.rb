@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array = [this, is , a, sentence]
-  element = [arrays!]
+  element = [yep]
   add_element_to_end_of_array.push(element)
 end
 
